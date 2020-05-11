@@ -134,3 +134,7 @@ dmypy.json
 # Chromedriver
 chromedriver
 
+.DS_Store
+.idea
+idea/
+
